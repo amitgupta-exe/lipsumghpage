@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lipsumghpage/static/css/main.06865c3a.chunk.css",
+    "main.js": "/lipsumghpage/static/js/main.21de072c.chunk.js",
+    "main.js.map": "/lipsumghpage/static/js/main.21de072c.chunk.js.map",
+    "runtime-main.js": "/lipsumghpage/static/js/runtime-main.e489ff29.js",
+    "runtime-main.js.map": "/lipsumghpage/static/js/runtime-main.e489ff29.js.map",
+    "static/css/2.f2512455.chunk.css": "/lipsumghpage/static/css/2.f2512455.chunk.css",
+    "static/js/2.0be40250.chunk.js": "/lipsumghpage/static/js/2.0be40250.chunk.js",
+    "static/js/2.0be40250.chunk.js.map": "/lipsumghpage/static/js/2.0be40250.chunk.js.map",
+    "static/js/3.bda9423f.chunk.js": "/lipsumghpage/static/js/3.bda9423f.chunk.js",
+    "static/js/3.bda9423f.chunk.js.map": "/lipsumghpage/static/js/3.bda9423f.chunk.js.map",
+    "index.html": "/lipsumghpage/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/lipsumghpage/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.06865c3a.chunk.css.map": "/lipsumghpage/static/css/main.06865c3a.chunk.css.map",
+    "static/js/2.0be40250.chunk.js.LICENSE.txt": "/lipsumghpage/static/js/2.0be40250.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e489ff29.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.0be40250.chunk.js",
+    "static/css/main.06865c3a.chunk.css",
+    "static/js/main.21de072c.chunk.js"
+  ]
+}
